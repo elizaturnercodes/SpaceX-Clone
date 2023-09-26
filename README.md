@@ -1,4 +1,5 @@
 # SpaceX-Clone
+View Live Site: https://spacexclone-elizaturner.netlify.app/ 
 Features and Preview:
 The Hero Section
 ![Space-X-Hero-Section](https://github.com/elizaturnercodes/SpaceX-Clone/assets/99226082/c7829d47-d716-4e28-928f-2ad50d94987f)
